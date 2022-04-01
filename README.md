@@ -40,7 +40,7 @@ I am a person who strongly believes that technology and education are the best w
 ## Contact me:
 
 [<img alt="Andrea's linkedIn" target="_blank" rel="noopener noreferrer" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img alt="Andrea's whatsapp" target="_blank" rel="noopener noreferrer" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />][linkedin]
+[<img alt="Andrea's whatsapp" target="_blank" rel="noopener noreferrer" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />][whatsapp]
 
 [linkedin]: https://www.linkedin.com/in/andrea-lora-herrera/
 [whatsapp]: https://wa.me/+556193311244
